@@ -2,7 +2,7 @@
 *(Tauri + Deepgram)*
 
 A cross-platform desktop application that provides **real-time voice-to-text transcription** using modern web technologies and AI speech recognition.  
-This project is built as a functional clone of *Wispr Flow*, focusing on **core workflow and technical implementation** rather than visual replication.
+This project is built as a functional clone of *Wispr Flow*.
 
 ---
 
