@@ -23,7 +23,7 @@ The goal of this project is to demonstrate:
 
 ## 🧰 Tech Stack
 
-- **Frontend:** React (JavaScript) + Vite  
+- **Frontend:** React + Vite  
 - **Desktop Framework:** Tauri (v2)  
 - **Speech-to-Text:** Deepgram Real-Time WebSocket API  
 - **Audio Capture:** Web MediaRecorder API  
